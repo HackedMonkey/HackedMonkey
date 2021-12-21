@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+My name is Robbe De Bondt and I'm a student developer/systems analyst at HoGent. I'm from Oppuurs, Belgium.
+### Socials
+![https://github.com/HackedMonkey](https://img.shields.io/github/followers/hackedmonkey?style=social)
+
 
 <!--
 **HackedMonkey/HackedMonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
