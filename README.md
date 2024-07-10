@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Robbe De Bondt and I'm a Site Reliability Engineer @ Combell and Freelance Developer / Systems Engineer.
+My name is Robbe De Bondt and I'm a Site Reliability Engineer @ Team.blue and Freelance Developer / Systems Engineer.
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
