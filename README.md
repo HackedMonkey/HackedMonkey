@@ -1,12 +1,10 @@
 # Hi there 👋
 My name is Robbe De Bondt and I'm a Site Reliability Engineer @ Team.blue and Freelance Developer / Systems Engineer.
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can find me on [![LinkedIn][2.2]][2].
 
-[1.2]: https://www.iconfinder.com/icons/104501/download/png/20 (twitter icon without padding)
 [2.2]: https://www.iconfinder.com/icons/5282542/download/png/20 (LinkedIn icon without padding)
 
-[1]: https://twitter.com/HackedMonkey
 [2]: https://www.linkedin.com/in/robbe-de-bondt-2663a31b3/
 # Technologies & Tools
 
